@@ -20,7 +20,7 @@
 
 ## Interesting projects :
 
-- [Mobile app using Flutter (using WordPress API)](https://github.com/TheoLaperrouse/TFTTMobileApp)
+- [Mobile app (Flutter using WordPress API)](https://github.com/TheoLaperrouse/TFTTMobileApp)
 - [Website for the registration of the club's tournament: (SQL, MySQL, PHP)](https://github.com/TheoLaperrouse/SiteTournoiTFTTPHP)
 - [Project to visualize travel times using Directions API (Grafana, docker, Python, MySql)](https://github.com/TheoLaperrouse/Grafana_Trajet)
 - [Some scripts (Python, PHP, AppScript) for the table tennis club of Thorigné Fouillard](https://github.com/TheoLaperrouse/CodeTFTT)
