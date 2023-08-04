@@ -15,7 +15,7 @@
   - Team management application
   - [Slides for the Pro A matches](https://docs.google.com/presentation/d/e/2PACX-1vR8pVidoKw6W5fEgSrL8UyrboX6-FPOgTM659zbdn6uMHXq6l6PiSfLiQkn0ECh8b6N2zhXd_SwSnqn/pub?start=false&loop=false&delayms=3000)
   - Domain name management and hosting (OVH)
-- :technologist: I work with many different programming languages (Flutter, Python, PHP, Javascript, TypeScript) and many others that you can see by browsing my repository
+- :technologist: I work with many different programming languages (Javascript, TypeScript, Python, Flutter, Python, PHP) and many others that you can see by browsing my repositories
 - :man_scientist: [I love discovering new tools and technologies, I make many small projects to try them out](https://github.com/TheoLaperrouse?tab=repositories)
 
 I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (developed using Astro) to reference and explain some of my various projects. [Repository](https://github.com/TheoLaperrouse/AstroPortfolio)
