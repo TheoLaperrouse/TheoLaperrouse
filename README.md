@@ -18,7 +18,7 @@
 - :technologist: I work with many different programming languages (Flutter, Python, PHP, Javascript, TypeScript) and many others that you can see by browsing my repository
 - :man_scientist: [I love discovering new tools and technologies, I make many small projects to try them out](https://github.com/TheoLaperrouse?tab=repositories)
 
-I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (developed using Astro) to reference and explain some of my various projects. [Repository](https://github.com/TheoLaperrouse?tab=repositories)
+I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (developed using Astro) to reference and explain some of my various projects. [Repository](https://github.com/TheoLaperrouse/AstroPortfolio)
 
 ## Interesting projects :
 
