@@ -26,4 +26,6 @@ I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (develope
 - [Website for the registration of the club's tournament: (SQL, MySQL, PHP)](https://github.com/TheoLaperrouse/SiteTournoiTFTTPHP)
 - [Visualization of travel times using Directions API (Grafana, docker, Python, MySql)](https://github.com/TheoLaperrouse/Grafana_Trajet)
 - [Visualization of a home-made strava challenge using Grafana by fetching strava data (Grafana, Node, PostgreSQL) deployed with AWS ](https://github.com/TheoLaperrouse/ChallengeStrava)
+- [Image recognition quiz (60 seconds to find as many image names as possible) using Vue3 / Vite / TypeScript / SemanticRelease](https://github.com/TheoLaperrouse/ImageGuess)
 - [Some scripts (Python, PHP, AppScript) for the table tennis club of Thorigné Fouillard](https://github.com/TheoLaperrouse/CodeTFTT)
+
