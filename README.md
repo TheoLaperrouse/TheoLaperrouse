@@ -11,7 +11,7 @@ I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (develope
 ## About me
 
 - :computer: I work at [Energiency](https://www.energiency.com/fr/) as a Full Stack Developer (VueJs, Node, TypeScript, Docker, PostgreSQL).
-- :ping_pong: I manage voluntarily all the IT part of the Thorigné Fouillard Table Tennis club where I have been a player for more than 18 years :
+- :ping_pong: I manage voluntarily all the IT part of the TFTT club where I have been a player for more than 18 years :
   - [Wordpress Website](https://thorigne-tt.net/)
   - [Annual tournament website](https://github.com/TheoLaperrouse/SiteTournoiTFTTPHP)
   - Team management application
