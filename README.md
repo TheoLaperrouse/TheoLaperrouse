@@ -6,6 +6,8 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=theolaperrouse&style=flat-square&color=blue" alt=""/>
 
+I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (developed using Astro) to reference and explain some of my various projects. [Repository](https://github.com/TheoLaperrouse/AstroPortfolio)
+
 ## About me
 
 - :computer: I work at [Energiency](https://www.energiency.com/fr/) as a Full Stack Developer (VueJs, Node, TypeScript, Docker, PostgreSQL).
@@ -17,8 +19,6 @@
   - Domain name management and hosting (OVH)
 - :technologist: I work with many different programming languages (Javascript, TypeScript, Python, Flutter, Python, PHP) and many others that you can see by browsing my repositories
 - :man_scientist: [I love discovering new tools and technologies, I make many small projects to try them out](https://github.com/TheoLaperrouse?tab=repositories)
-
-I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (developed using Astro) to reference and explain some of my various projects. [Repository](https://github.com/TheoLaperrouse/AstroPortfolio)
 
 ## Interesting projects :
 
