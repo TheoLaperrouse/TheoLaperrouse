@@ -22,6 +22,7 @@ I have deployed a [Portfolio](https://theolaperrouse.thorigne-tt.net/) (develope
 
 ## Interesting projects :
 
+- [MarathonProgram (Vue3 / Tailwind CSS)](https://github.com/TheoLaperrouse/MarathonProgram)
 - [Mobile app (Flutter using WordPress API)](https://github.com/TheoLaperrouse/TFTTMobileApp)
 - [Website for the registration of the club's tournament: (SQL, MySQL, PHP)](https://github.com/TheoLaperrouse/SiteTournoiTFTTPHP)
 - [Visualization of travel times using Directions API (Grafana, docker, Python, MySql)](https://github.com/TheoLaperrouse/Grafana_Trajet)
